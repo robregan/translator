@@ -1,3 +1,10 @@
+# translator!
+  - using Azure's cognitive services, this program will listen to a voice and translate the text into the selected language!
+  - live version: https://transl8or.herokuapp.com/
+  
+
+
+
 # Install
 
 `npm install`
